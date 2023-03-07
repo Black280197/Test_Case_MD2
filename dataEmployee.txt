@@ -1,0 +1,1 @@
+[{"_name":"1","_email":"1","_birthday":"1","_phoneNumber":"1","_status":false,"_typeOfStaff":{"type":"parttime","parttime":{"salary":1,"hour":0},"fulltime":{"salary":-1,"hour":-1}}}]
